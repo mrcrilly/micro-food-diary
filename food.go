@@ -11,6 +11,8 @@ type Food struct {
   Name string
   Summary string
   Calories int
+  Weight int
+  Count int 
 
   AddedYear int
   AddedMonth int
