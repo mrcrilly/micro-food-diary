@@ -6,6 +6,9 @@ A simple REST API for adding consumed food items to database. Keeps track of fou
 1. Calories
 1. Date & time consumed
 
+## Version
+0.0.1
+
 ## Captured Information
 The captured information goes into the database and is used for calculating various bits of information, such as calories.
 
